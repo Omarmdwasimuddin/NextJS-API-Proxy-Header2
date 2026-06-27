@@ -1,6 +1,6 @@
 ## NextJS API---> Working With Response Header In Proxy
 
-###
+### Set value in header
 ![](https://imgur.com/tFLmod3.png)
 
 ```bash
