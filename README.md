@@ -1,7 +1,7 @@
 ## NextJS API---> Working With Response Header In Proxy
 
 ###
-![]()
+![](https://imgur.com/tFLmod3.png)
 
 ```bash
 import { NextRequest, NextResponse } from "next/server";
