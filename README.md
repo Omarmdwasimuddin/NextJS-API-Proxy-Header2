@@ -20,6 +20,16 @@ export function proxy(request: NextRequest) {
 ```
 
 ```bash
+import { NextResponse, NextRequest } from "next/server";
 
+
+export async function GET(request:NextRequest) {
+
+
+    return NextResponse.json(
+        {status: "success", message: "ok"},
+        {status: 200}
+    )
+}
 ```
 ---
